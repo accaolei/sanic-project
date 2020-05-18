@@ -1,0 +1,9 @@
+.pytest_cache
+logs
+env
+**/*.pyc
+
+**/upload
+**/.DS_Store
+.vscode/
+config/local.json
